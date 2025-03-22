@@ -38,6 +38,3 @@ The implementation follows standard time series analysis steps:
 
 The model aims to forecast gold price movements based on historical patterns, providing valuable insights for investment decision-making and market analysis.
 
-## License
-
-[Include your desired license information here] 
